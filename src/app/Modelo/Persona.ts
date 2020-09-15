@@ -1,7 +1,7 @@
-export class Persona{
-    id: number;
-    name: String;
-    apellido:String;
+class Persona{
+    id:number;
+    name: string;
+    apellidos: string;
     
-
 }
+export default Persona;
